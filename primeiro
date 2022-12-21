@@ -1,1 +1,4 @@
-
+let camper = "James";
+let camper1 = "David";
+console.log(camper)
+console.log(camper1)
